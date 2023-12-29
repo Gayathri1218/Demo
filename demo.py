@@ -7,8 +7,8 @@ with col1:
   st.image("./pcat.jpg",caption="persian cat",use_column_width=True)
   st.write("persian cats are cute")
 with col2:
-  st.write("- white cat")
+  st.write("white cat")
   st.image("./wcat.jpg", width=280,use_column_width=True)
 with col3:
-  st.write("- cat")
+  st.write("cat")
   st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMtz__o1a8lG_sKQIu47iK0b1neWUBdwBNfg&usqp=CAU",use_column_width=True)
